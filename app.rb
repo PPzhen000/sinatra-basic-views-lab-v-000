@@ -6,5 +6,5 @@ class App < Sinatra::Base
     <h1>Buster's Best Bowling Alley</h1>
     erb :index
   end
-  
+
 end
